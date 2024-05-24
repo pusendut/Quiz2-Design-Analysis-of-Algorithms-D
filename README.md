@@ -1,5 +1,8 @@
 # Quiz2-Design-Analysis-of-Algorithms-D
 
+Group Name :
+- Azhar Abiyu Rasendriya H. / 5025211177
+
 ## Maze Game with Depth-First Search (DFS) Implementation
 
 This project is a simple maze game implemented in Java with an integrated Depth-First Search (DFS) algorithm to find a path through the maze.
